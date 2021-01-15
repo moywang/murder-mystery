@@ -43,17 +43,6 @@ h2 {
     font-size: 3em;
 }
 
-#mm-title i {
-    color: var(--red);
-    cursor: pointer;
-}
-
-#mm-title i:hover::after {
-    font-family: 'Staatliches', cursive;
-    content: "Stuck? Text DX at ‭(909) 964-6832.";
-    margin-left: .3em;
-}
-
 .page iframe, .page video {
     width: 100%;
     height: 600px;
